@@ -3,11 +3,11 @@
 ### 3 numerales
 #### 4 numerales
 
-**encerrado en 2 asteriscos**
+**encerrado entre 2 asteriscos**
 
-*encerrado en un asterisco* o _encerrado en un guión bajo_
+*encerrado entre un asterisco* o _encerrado entre un guión bajo_
 
-~~encerrado en 2 sombrero de la ñ~~
+~~encerrado entre 2 sombrero de la ñ~~
 
 - un - y espacio
 - idem
@@ -16,7 +16,8 @@
 1. literalmente 1, . y espacio
 2. Segundo paso
 
-> un > y/o espacio
+> un > y/o espacio (para citas?)
 
 para emojis es la frase clave (como smile) encerrada entre :
+
 :smile:
