@@ -21,4 +21,3 @@ siendo el tipo de la variable el que anuncia qué tamaño tiene esa referencia."
 La cantidad de bytes a reservar depende del tipo de dato que le declaramos a la variable
 en un int ocupa 4 bytes
 */
-//mensaje para borrar con git revert?
