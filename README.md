@@ -18,6 +18,6 @@
 
 > un > y/o espacio (para citas?)
 
-para emojis es la frase clave (como smile) encerrada entre :
+para emojis es la frase clave (como smile) encerrada entre : como
 
 :smile:
