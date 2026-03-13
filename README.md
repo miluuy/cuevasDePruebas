@@ -21,3 +21,7 @@
 para emojis es la frase clave (como smile) encerrada entre : como
 
 :smile:
+
+```
+encerrado entre 3 de ` (para código)
+```
